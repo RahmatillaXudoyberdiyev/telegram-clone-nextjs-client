@@ -27,6 +27,9 @@ More features will be added day by day. Work in progress.
 
 ---
 
-This project is deployed on [website].
+This project is deployed on [Vercel](https://telegram-clone-nextjs.vercel.app/).
+
+
+Url: [https://telegram-clone-nextjs.vercel.app/](https://telegram-clone-nextjs.vercel.app/)
 
 

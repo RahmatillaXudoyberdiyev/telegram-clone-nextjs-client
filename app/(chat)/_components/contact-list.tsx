@@ -2,7 +2,7 @@
 
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
 import { Input } from '@/components/ui/input'
-import UseCurrentContact from '@/hooks/use-current'
+import {UseCurrentContact} from '@/hooks/use-current'
 import { IUser } from '@/types'
 import { useRouter } from 'next/navigation'
 import { FC } from 'react'

@@ -1,7 +1,7 @@
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
 import { Button } from '@/components/ui/button'
 import { UseCurrentContact } from '@/hooks/use-current'
-import { Settings, Settings2 } from 'lucide-react'
+import { Settings2 } from 'lucide-react'
 
 function TopChat() {
   const { currentContact } = UseCurrentContact()

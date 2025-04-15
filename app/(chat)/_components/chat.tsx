@@ -7,9 +7,9 @@ function Chat() {
     <ChatLoading/>
 
     {/* Message */}
-  {/* <MessageCard /> */}
+  <MessageCard />
 
-  
+
 
   </div>
 }

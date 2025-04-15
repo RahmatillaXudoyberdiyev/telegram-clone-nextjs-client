@@ -14,7 +14,7 @@ import Chat from './_components/chat'
 
 function HomePage() {
 
-  const {currentContact, setCurrentContact } = UseCurrentContact()
+  const {currentContact } = UseCurrentContact()
   const router = useRouter()
 
   const contactForm = useForm<z.infer<typeof emailSchema>>({
